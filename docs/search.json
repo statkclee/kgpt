@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "챗GPT AI 교육과정",
+    "section": "",
+    "text": "연구주제: 생성형 AI를 활용한 챗GPT 생산성 향상\n참석인원: XX명 (5명 x 4 개팀)\n시간: 17:30 ~ 19:30 (2시간)\n강의노트: 10월 21일"
+  },
+  {
+    "objectID": "index.html#생성형-ai-연구모임",
+    "href": "index.html#생성형-ai-연구모임",
+    "title": "챗GPT 데이터 사이언스",
+    "section": "",
+    "text": "연구주제: 생성형 AI를 활용한 챗GPT 행정\n장소: 광명시 철산3동 행정복지센터\n참석인원: 12명 (4명 x 3 개팀)\n시간: 13:30 ~ 17:30 (4시간)"
+  },
+  {
+    "objectID": "index.html#커리큘럼",
+    "href": "index.html#커리큘럼",
+    "title": "챗GPT AI 교육과정",
+    "section": "\n2 커리큘럼",
+    "text": "2 커리큘럼\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n챗GPT AI 교육과정 생성형 AI 실무교육과정\n\n\n\n\n강의주제\n강의내용\n수업방법\n\n\n\n\n1 회차 - 2024-10-21\n\n\n챗GPT 사무생산성 향상\n챗GPT 시즌 2: 글쓰기와 그리기를 넘어서\n이론 및 강의\n\n\n챗GPT 사무생산성 향상\n통계 데이터 분석\n이론 및 강의\n\n\n챗GPT 사무생산성 향상\nAPI 프로그래밍, 문제풀이(수능)\n이론 및 강의\n\n\n2 회차 - 2024-11-06\n\n\n디지털 글쓰기\n책, 보고서, PPT, 웹사이트, 블로그 등\n핸즈온 실습\n\n\n디지털 글쓰기\n프로그래밍(파이썬, R, SQL)\n핸즈온 실습\n\n\n디지털 글쓰기\n마크다운(WYSWYG/WYSWYM)\n핸즈온 실습\n\n\n3 회차 - 2024-11-18\n\n\n데이터 문해력\n통계학(데이터 과학)\n핸즈온 실습\n\n\n데이터 문해력\n커뮤니케이션\n핸즈온 실습\n\n\n데이터 문해력\n데이터 저널리즘 등 사례\n핸즈온 실습\n\n\n4 회차 - 2024-12-02\n\n\n챗GPT 디지털 글쓰기\n마크다운\n핸즈온 실습\n\n\n챗GPT 디지털 글쓰기\n문서화 프로그래밍\n핸즈온 실습\n\n\n챗GPT 디지털 글쓰기\n쿼토(PDF,HTML)\n핸즈온 실습\n\n\n5 회차 - 2024-12-18\n\n\n챗GPT 데이터 사이언스\n데이터 분석 자동화\n핸즈온 실습\n\n\n챗GPT 데이터 사이언스\n챗GPT Code Interpreter/Analytics\n핸즈온 실습\n\n\n챗GPT 데이터 사이언스\n증거기반 문서 저작\n핸즈온 실습\n\n\n6 회차 - 2024-12-30\n\n\n챗GPT 문서 출판\n디지털 글쓰기와 출판\n핸즈온 실습\n\n\n챗GPT 문서 출판\n글꼴, 색상, 외양 등\n핸즈온 실습\n\n\n챗GPT 문서 출판\n웹출판과 도서출판\n핸즈온 실습\n\n\n7 회차 - 2025-01-13\n\n\n문서 작성 자동화\nOSMU와 문서 프로그래밍\n핸즈온 실습\n\n\n문서 작성 자동화\n패러미터 문서 생성\n핸즈온 실습\n\n\n문서 작성 자동화\n시간 및 공간 문서생성 자동화\n핸즈온 실습\n\n\n8 회차 - 2024-01-27\n\n\n챗GPT 커뮤니케이션\n프로젝트\n핸즈온 실습\n\n\n챗GPT 커뮤니케이션\n커뮤니케이션\n핸즈온 실습\n\n\n챗GPT 커뮤니케이션\nQuarto 슬라이드/웹사이트/문서\n핸즈온 실습"
+  },
+  {
+    "objectID": "index.html#참고-자료",
+    "href": "index.html#참고-자료",
+    "title": "챗GPT AI 교육과정",
+    "section": "\n3 참고 자료",
+    "text": "3 참고 자료\n\n인공지능 기초\n\n데이터 과학 언플러그드 : https://r2bit.com/book_unplugged/\n\n리보그 세상 - 블록 언어 → R/파이썬 : https://statkclee.github.io/reeborg/\n\n데이터 과학 프로그래밍 : https://r2bit.com/book_programming/\n\n\n\n데이터 사이언스\n\nGS 칼텍스 디지털 아카데미: https://r2bit.com/curriculum/\n\n연세대학교 데이터 과학: https://statkclee.github.io/yonsei/ https://statkclee.github.io/yonsei2/\n\n\n\n챗GPT 데이터 사이언스\n\n챗GPT PPT: https://r2bit.com/bitSlide/\n\n챗GPT 쿼토(디지털 글쓰기): https://r2bit.com/quarto/\n\n챗GPT 유닉스 쉘: https://r2bit.com/gpt-shell/\n\n챗GPT 코딩: https://r2bit.com/gpt-coding/\n\n챗GPT 데이터 과학: https://r2bit.com/gpt-ds/\n\n챗GPT SQL: https://r2bit.com/gpt-sql/\n\n\n챗GPT AI: https://r2bit.com/gpt-ai/\n\n챗GPT 디지털 출판: https://r2bit.com/bitPublish/\n\n챗GPT 실습: https://r2bit.com/gpt-edu/\n\n챗GPT 자료: https://r2bit.com/chatGPT/\n\n\n\n커뮤니티\n\n공익법인 한국 R 사용자회: https://r2bit.com/\n\n서울 R 미트업: https://r2bit.com/seoul-r/\n\n한국 R 컨퍼런스: https://use-r.kr/"
+  },
+  {
+    "objectID": "index.html#챗gpt-유닉스-쉘",
+    "href": "index.html#챗gpt-유닉스-쉘",
+    "title": "챗GPT 데이터 사이언스",
+    "section": "\n4 챗GPT 유닉스 쉘",
+    "text": "4 챗GPT 유닉스 쉘\n\n\n\n\n\n\n\n“챗GPT 유닉스 쉘”은 단순한 기술서적이 아니고 지금 챗GPT AI 시대를 지탱하는 사고체계다. 컴퓨터의 대부인 IBM이 새로운 제국의 시대를 열었지만, 그 제국을 흔들었던 힘은 바로 ’유닉스’였다.\n유닉스는 레고와 닮았다. 한가지 기능에 특화된 레고블록 각각은 별볼일 없지만 레고블록을 조합하면 명작으로 재탄생한다. 레고를 이해하면 유닉스도 쉽게 이해되고 강력한 소프트웨어를 제작할 수 있다.\n피터 파커(스파이더맨)의 삼촌 벤자민 파커는 “큰 힘에는 큰 책임이 따른다.”는 명언을 남겼다. 자연어를 이해하는 챗GPT가 등장하며 큰 책임을 다하면서 큰 힘을 쓸 수 있는 여건이 마련되었다.\n이 책은 21세기 가장 섹시한 직업으로 불리는 ‘데이터 과학’ 분야를 주로 다루고 있지만, 챗GPT와 유닉스의 조합이 얼마나 강력한지 직접 체험함으로써 앞으로 펼쳐질 미래를 예측하는데도 도움을 줄 것이다.\n\n교보문고 바로가기"
+  },
+  {
+    "objectID": "index.html#신간도서-챗gpt-유닉스-쉘",
+    "href": "index.html#신간도서-챗gpt-유닉스-쉘",
+    "title": "챗GPT 데이터 사이언스",
+    "section": "\n4 [신간도서] 챗GPT 유닉스 쉘",
+    "text": "4 [신간도서] 챗GPT 유닉스 쉘\n\n\n\n\n\n\n\n“챗GPT 유닉스 쉘”은 단순한 기술서적이 아니고 지금 챗GPT AI 시대를 지탱하는 사고체계다. 컴퓨터의 대부인 IBM이 새로운 제국의 시대를 열었지만, 그 제국을 흔들었던 힘은 바로 ’유닉스’였다.\n유닉스는 레고와 닮았다. 한가지 기능에 특화된 레고블록 각각은 별볼일 없지만 레고블록을 조합하면 명작으로 재탄생한다. 레고를 이해하면 유닉스도 쉽게 이해되고 강력한 소프트웨어를 제작할 수 있다.\n피터 파커(스파이더맨)의 삼촌 벤자민 파커는 “큰 힘에는 큰 책임이 따른다.”는 명언을 남겼다. 자연어를 이해하는 챗GPT가 등장하며 큰 책임을 다하면서 큰 힘을 쓸 수 있는 여건이 마련되었다.\n이 책은 21세기 가장 섹시한 직업으로 불리는 ‘데이터 과학’ 분야를 주로 다루고 있지만, 챗GPT와 유닉스의 조합이 얼마나 강력한지 직접 체험함으로써 앞으로 펼쳐질 미래를 예측하는데도 도움을 줄 것이다.\n\n교보문고 바로가기"
+  },
+  {
+    "objectID": "index.html#생성형-ai-실무과정",
+    "href": "index.html#생성형-ai-실무과정",
+    "title": "챗GPT AI 교육과정",
+    "section": "",
+    "text": "연구주제: 생성형 AI를 활용한 챗GPT 생산성 향상\n참석인원: XX명 (5명 x 4 개팀)\n시간: 17:30 ~ 19:30 (2시간)\n강의노트: 10월 21일"
+  },
+  {
+    "objectID": "penguins.html",
+    "href": "penguins.html",
+    "title": "재미날것 같은 통계학",
+    "section": "",
+    "text": "코드library(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.2     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.0\n✔ ggplot2   3.4.2     ✔ tibble    3.2.1\n✔ lubridate 1.9.2     ✔ tidyr     1.3.0\n✔ purrr     1.0.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n코드library(palmerpenguins)\nlibrary(janitor)\n\n\nAttaching package: 'janitor'\n\nThe following objects are masked from 'package:stats':\n\n    chisq.test, fisher.test\n\n코드penguins |&gt; \n  drop_na() |&gt; \n  count(species, sex, sort = TRUE) |&gt; \n  pivot_wider(names_from = sex, values_from = n) |&gt; \n  mutate(합계 = female + male)  |&gt; \n  janitor::adorn_totals(where = \"row\", name = \"합계\") |&gt; \n  gt::gt()\n\n\n\n\n\nspecies\nfemale\nmale\n합계\n\n\n\nAdelie\n73\n73\n146\n\n\nGentoo\n58\n61\n119\n\n\nChinstrap\n34\n34\n68\n\n\n합계\n165\n168\n333\n\n\n\n\n\n\n\n\n코드weights_tbl &lt;- penguins |&gt; \n  drop_na() |&gt; \n  group_by(species) |&gt; \n  summarise(평균체중 = mean(body_mass_g),\n            SD체중  = sd(body_mass_g),\n            최소체중 = min(body_mass_g),\n            최대체중 = max(body_mass_g))\n\nweights &lt;- weights_tbl |&gt; \n  pull(평균체중)\n\nweights\n\n[1] 3706.164 3733.088 5092.437\n\n\n남극에 서식중인 펭귄 3종의 평균 체중은 다음과 같습니다.\n\n아델리: 3,706\n턱끈: 3733.0882353\n젠투: 5092.4369748"
+  },
+  {
+    "objectID": "penguins.html#요약통계",
+    "href": "penguins.html#요약통계",
+    "title": "재미날것 같은 통계학",
+    "section": "",
+    "text": "코드library(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.2     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.0\n✔ ggplot2   3.4.2     ✔ tibble    3.2.1\n✔ lubridate 1.9.2     ✔ tidyr     1.3.0\n✔ purrr     1.0.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n코드library(palmerpenguins)\nlibrary(janitor)\n\n\nAttaching package: 'janitor'\n\nThe following objects are masked from 'package:stats':\n\n    chisq.test, fisher.test\n\n코드penguins |&gt; \n  drop_na() |&gt; \n  count(species, sex, sort = TRUE) |&gt; \n  pivot_wider(names_from = sex, values_from = n) |&gt; \n  mutate(합계 = female + male)  |&gt; \n  janitor::adorn_totals(where = \"row\", name = \"합계\") |&gt; \n  gt::gt()\n\n\n\n\n\nspecies\nfemale\nmale\n합계\n\n\n\nAdelie\n73\n73\n146\n\n\nGentoo\n58\n61\n119\n\n\nChinstrap\n34\n34\n68\n\n\n합계\n165\n168\n333\n\n\n\n\n\n\n\n\n코드weights_tbl &lt;- penguins |&gt; \n  drop_na() |&gt; \n  group_by(species) |&gt; \n  summarise(평균체중 = mean(body_mass_g),\n            SD체중  = sd(body_mass_g),\n            최소체중 = min(body_mass_g),\n            최대체중 = max(body_mass_g))\n\nweights &lt;- weights_tbl |&gt; \n  pull(평균체중)\n\nweights\n\n[1] 3706.164 3733.088 5092.437\n\n\n남극에 서식중인 펭귄 3종의 평균 체중은 다음과 같습니다.\n\n아델리: 3,706\n턱끈: 3733.0882353\n젠투: 5092.4369748"
+  },
+  {
+    "objectID": "penguins.html#상자그림",
+    "href": "penguins.html#상자그림",
+    "title": "재미날것 같은 통계학",
+    "section": "상자그림",
+    "text": "상자그림\n\n코드penguins |&gt; \n  ggplot(aes(x = species, y = body_mass_g)) +\n    geom_boxplot() +\n    geom_jitter(aes(color = species))\n\nWarning: Removed 2 rows containing non-finite values (`stat_boxplot()`).\n\n\nWarning: Removed 2 rows containing missing values (`geom_point()`)."
+  },
+  {
+    "objectID": "penguins.html#빈도수",
+    "href": "penguins.html#빈도수",
+    "title": "재미날것 같은 통계학",
+    "section": "빈도수",
+    "text": "빈도수\n\n코드penguins |&gt;\n  drop_na() |&gt; \n  count(species, sex) |&gt; \n  ggplot(aes(x = fct_reorder(species, -n), y = n, fill = sex)) +\n    geom_col(width=0.5) +\n    labs(x = \"펭귄 종\", y = \"펭귄 빈도수\",\n         fill = \"암수\",\n         title = \"남극 서식 펭귄종 통계 빈도 분석\") +\n    theme_minimal(base_family = \"AppleGothic\")"
+  },
+  {
+    "objectID": "penguins.html#srs",
+    "href": "penguins.html#srs",
+    "title": "재미날것 같은 통계학",
+    "section": "SRS",
+    "text": "SRS\n\n코드srs_penguins &lt;- penguins |&gt; \n  drop_na() |&gt; \n  slice_sample(n = 100)"
+  },
+  {
+    "objectID": "penguins.html#집락추출",
+    "href": "penguins.html#집락추출",
+    "title": "재미날것 같은 통계학",
+    "section": "집락추출",
+    "text": "집락추출\n\n코드cluster_penguins &lt;- penguins |&gt; \n  drop_na() |&gt; \n  mutate(cluster = cut(bill_length_mm, breaks = 10)) \n\n# 1. 단계 집락추출\nclusters &lt;- unique(cluster_penguins$cluster)\nclusters_sample &lt;- sample(clusters, size = 3)\n\n# 2. 펭귄 추출\ncluster_penguins |&gt; \n  filter(cluster %in% clusters_sample) |&gt; \n  slice_sample(n = 10)\n\n# A tibble: 10 × 9\n   species   island bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;     &lt;fct&gt;           &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Chinstrap Dream            49            19.6               212        4300\n 2 Gentoo    Biscoe           50.5          15.9               225        5400\n 3 Chinstrap Dream            50            19.5               196        3900\n 4 Chinstrap Dream            51.3          19.9               198        3700\n 5 Gentoo    Biscoe           50.5          15.9               222        5550\n 6 Gentoo    Biscoe           46.2          14.5               209        4800\n 7 Chinstrap Dream            48.1          16.4               199        3325\n 8 Gentoo    Biscoe           48.4          14.6               213        5850\n 9 Gentoo    Biscoe           50            15.9               224        5350\n10 Gentoo    Biscoe           48.7          14.1               210        4450\n# ℹ 3 more variables: sex &lt;fct&gt;, year &lt;int&gt;, cluster &lt;fct&gt;"
+  },
+  {
+    "objectID": "penguins.html#표본평균",
+    "href": "penguins.html#표본평균",
+    "title": "재미날것 같은 통계학",
+    "section": "표본평균",
+    "text": "표본평균\n\n코드penguins |&gt; \n  drop_na() |&gt; \n  summarise(표본평균체중 = mean(body_mass_g ))\n\n# A tibble: 1 × 1\n  표본평균체중\n         &lt;dbl&gt;\n1        4207.\n\n코드trials &lt;- rep(100, 1000)\n\nget_srs &lt;- function(n_sample = 100) {\n  srs_penguins &lt;- penguins |&gt; \n    slice_sample(n = n_sample)\n  \n  return(srs_penguins)\n}\n\nget_srs(100)\n\n# A tibble: 100 × 8\n   species   island   bill_length_mm bill_depth_mm flipper_length_mm body_mass_g\n   &lt;fct&gt;     &lt;fct&gt;             &lt;dbl&gt;         &lt;dbl&gt;             &lt;int&gt;       &lt;int&gt;\n 1 Adelie    Torgers…           41.4          18.5               202        3875\n 2 Chinstrap Dream              50.5          19.6               201        4050\n 3 Gentoo    Biscoe             49.5          16.2               229        5800\n 4 Gentoo    Biscoe             45.2          13.8               215        4750\n 5 Adelie    Biscoe             42.7          18.3               196        4075\n 6 Adelie    Dream              36            18.5               186        3100\n 7 Gentoo    Biscoe             50            15.2               218        5700\n 8 Adelie    Dream              40.6          17.2               187        3475\n 9 Adelie    Dream              40.8          18.9               208        4300\n10 Chinstrap Dream              49.6          18.2               193        3775\n# ℹ 90 more rows\n# ℹ 2 more variables: sex &lt;fct&gt;, year &lt;int&gt;\n\n코드get_mean &lt;- function(dataframe) {\n  dataframe |&gt;\n    summarise(표본평균체중 = mean(body_mass_g, na.rm = TRUE )) |&gt; \n    pull(표본평균체중)\n}\n\n\ntrials |&gt; \n  enframe() |&gt; \n  mutate(sample = map(value, get_srs)) |&gt; \n  mutate(sample_mean = map_dbl(sample, get_mean)) |&gt; \n  summarise(mean(sample_mean))\n\n# A tibble: 1 × 1\n  `mean(sample_mean)`\n                &lt;dbl&gt;\n1               4202.\n\n코드penguins |&gt; \n  drop_na() |&gt; \n  summarise(표본평균체중 = mean(body_mass_g ))\n\n# A tibble: 1 × 1\n  표본평균체중\n         &lt;dbl&gt;\n1        4207."
+  }
+]
