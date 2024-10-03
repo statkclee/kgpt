@@ -21,6 +21,7 @@ format:
     highlight-style: github    
     self-contained: false
     default-image-extension: jpg
+    embed-resources: true
 filters:
    - lightbox
 lightbox: auto
