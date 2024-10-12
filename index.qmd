@@ -42,7 +42,7 @@ editor_options:
 ## 생성형 AI 실무과정
 
 -   연구주제: 생성형 AI를 활용한 챗GPT 생산성 향상
--   참석인원: XX명 (5명 x 4 개팀)
+-   참석인원: XX명 (5명 x 3 개팀)
 -   시간: 17:30 \~ 19:30 (2시간)
 -   강의노트: [10월 21일](https://hackmd.io/@_NnKkWt7T5iYIToOD1QWRg/HyDZ4l3RA/edit)
 
