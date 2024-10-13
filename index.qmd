@@ -112,6 +112,16 @@ curriculum %>%
 
 ```
 
+## 강의 실습 자료
+
+| 강의회차 | 슬라이드 | 실습 | 비고 |
+|:--------:|:----------------------:|:-----------------:|:-----------------:|
+| 1 | [강의자료0](https://ai-carpentry.github.io/slideshow/ch00.html#/title-slide) [강의자료1](https://ai-carpentry.github.io/slideshow/ch01.html#/title-slide) | [실습자료1](https://ai-carpentry.github.io/slideshow/ch01_practice.html#/title-slide) |  |
+| 2 | [강의자료2](https://ai-carpentry.github.io/slideshow/ch02.html#/title-slide) | [실습자료2](https://ai-carpentry.github.io/slideshow/ch02_practice.html#/title-slide) |  |
+| 3 | [강의자료3](https://ai-carpentry.github.io/slideshow/ch03.html#/title-slide) | [실습자료3](https://ai-carpentry.github.io/slideshow/ch03_practice.html#/title-slide) |  |
+| 4 | [강의자료4](https://ai-carpentry.github.io/slideshow/ch04.html#/title-slide) | [실습자료4](https://ai-carpentry.github.io/slideshow/ch04_practice.html#/title-slide) |  |
+| \- | \- | \- |  |
+
 ## 참고 자료
 
 1.  인공지능 기초
@@ -128,7 +138,7 @@ curriculum %>%
     -   챗GPT 코딩: <https://r2bit.com/gpt-coding/>
     -   챗GPT 데이터 과학: <https://r2bit.com/gpt-ds/>
     -   챗GPT SQL: <https://r2bit.com/gpt-sql/>
-    -   ~~챗GPT AI: <https://r2bit.com/gpt-ai/>~~        
+    -   ~~챗GPT AI: <https://r2bit.com/gpt-ai/>~~\
     -   챗GPT 디지털 출판: <https://r2bit.com/bitPublish/>
     -   챗GPT 실습: <https://r2bit.com/gpt-edu/>
     -   챗GPT 자료: <https://r2bit.com/chatGPT/>
@@ -136,4 +146,3 @@ curriculum %>%
     -   공익법인 한국 R 사용자회: <https://r2bit.com/>
     -   서울 R 미트업: <https://r2bit.com/seoul-r/>
     -   한국 R 컨퍼런스: <https://use-r.kr/>
-
