@@ -1,8 +1,8 @@
 ---
-title: "챗GPT AI 교육과정"
-subtitle: "프로젝트 중심 실무교육과정"
+title: "당직자 AI교육 심화과정"
+subtitle: "프로젝트 중심 생성형 AI 실무교육과정"
 description: |
-  챗GPT AI 교육과정
+  생성형 AI를 업무에 즉시 전력화할 수 있도록 당직자를 위한 챗GPT AI 실무교육과정
 author:
   - name: 이광춘
     url: https://www.linkedin.com/in/kwangchunlee/
@@ -39,10 +39,10 @@ editor_options:
   chunk_output_type: console
 ---
 
-## 생성형 AI 실무과정
+## 당직자 AI 교육 심화과정
 
--   연구주제: 생성형 AI를 활용한 챗GPT 생산성 향상
--   참석인원: XX명 (5명 x 3 개팀)
+-   교육주제: (챗GPT 등) 생성형 AI를 활용한 당무 생산성 향상
+-   참석인원: 중앙당 당직자 부국장급, 부장급
 -   시간: 17:30 \~ 19:30 (2시간)
 -   강의노트: [10월 21일](https://hackmd.io/@_NnKkWt7T5iYIToOD1QWRg/HyDZ4l3RA/edit)
 
@@ -104,8 +104,8 @@ curriculum %>%
           )
         ),
         htmltools::tags$div(
-          htmltools::tags$strong("챗GPT AI 교육과정"),
-          "생성형 AI 실무교육과정"
+          htmltools::tags$strong("당직자 AI교육 심화과정"),
+          "(챗GPT 등) 생성형 AI 당무 실무교육과정"
         )
       )
   )
