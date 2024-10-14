@@ -66,7 +66,7 @@ curriculum <- curriculum_raw %>%
 curriculum_first <- curriculum %>% 
   filter(dplyr::row_number() <=10)
 
-curriculum %>%   
+curriculum_gt <- curriculum %>%   
   gt(groupname_col = c("주차", "날짜")) %>% 
     cols_align(align = "center") %>% 
   opt_table_font(
@@ -83,6 +83,7 @@ curriculum %>%
     locations = cells_body(columns = everything())
   ) %>% 
   tab_options(
+    data_row.padding = px(7),    # Add padding to rows
     table.font.names = 'MaruBuri',
     column_labels.font.weight = 'bold',
     column_labels.font.size = 20,
@@ -95,21 +96,32 @@ curriculum %>%
   tab_header(
     title =
       htmltools::tagList(
-        htmltools::tags$div(
-          style = htmltools::css(
-            `text-align` = "center"
-          ),
-          htmltools::HTML(
-            web_image("images/curriculum_kgpt.png")
-          )
-        ),
+        # htmltools::tags$div(
+        #   style = htmltools::css(
+        #     `text-align` = "center"
+        #   ),
+        #   htmltools::HTML(
+        #     web_image("images/curriculum_kgpt.png")
+        #   )
+        # ),
         htmltools::tags$div(
           htmltools::tags$strong("당직자 AI교육 심화과정"),
           "(챗GPT 등) 생성형 AI 당무 실무교육과정"
         )
       )
-  )
+  ) |> 
+  tab_style(
+    style = cell_borders(
+      sides = "right",
+      color = "transparent",
+      weight = px(1) # This adds some empty space visually on the right side
+    ),
+    locations = cells_body()
+  )    
 
+# gtsave(curriculum_gt, "images/curriculum_gt.png", expand = 10)
+
+curriculum_gt
 ```
 
 ## 강의 실습 자료
