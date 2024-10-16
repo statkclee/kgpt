@@ -126,13 +126,13 @@ curriculum_gt
 
 ## 강의 실습 자료
 
-| 강의회차 | 슬라이드 | 실습 | 비고 |
-|:--------:|:----------------------:|:-----------------:|:-----------------:|
-| 1 | [강의자료0](https://ai-carpentry.github.io/slideshow/ch00.html#/title-slide) [강의자료1](https://ai-carpentry.github.io/slideshow/ch01.html#/title-slide) | [실습자료1](https://ai-carpentry.github.io/slideshow/ch01_practice.html#/title-slide) |  |
-| 2 | [강의자료2](https://ai-carpentry.github.io/slideshow/ch02.html#/title-slide) | [실습자료2](https://ai-carpentry.github.io/slideshow/ch02_practice.html#/title-slide) |  |
-| 3 | [강의자료3](https://ai-carpentry.github.io/slideshow/ch03.html#/title-slide) | [실습자료3](https://ai-carpentry.github.io/slideshow/ch03_practice.html#/title-slide) |  |
-| 4 | [강의자료4](https://ai-carpentry.github.io/slideshow/ch04.html#/title-slide) | [실습자료4](https://ai-carpentry.github.io/slideshow/ch04_practice.html#/title-slide) |  |
-| \- | \- | \- |  |
+| 강의회차 | 슬라이드 | 사례 | 실습 | 비고 |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| 1 | [강의자료1](https://ai-carpentry.github.io/slideshow/ch01.html#/title-slide) | [실습자료1](https://ai-carpentry.github.io/slideshow/ch01_practice.html#/title-slide) |  | [디지털국가순위](https://ai-carpentry.github.io/slideshow/ranking.html#/title-slide) |
+| 2 | [강의자료2](https://ai-carpentry.github.io/slideshow/ch02.html#/title-slide) | [실습자료2](https://ai-carpentry.github.io/slideshow/ch02_practice.html#/title-slide) |  |  |
+| 3 | [강의자료3](https://ai-carpentry.github.io/slideshow/ch03.html#/title-slide) | [실습자료3](https://ai-carpentry.github.io/slideshow/ch03_practice.html#/title-slide) |  |  |
+| 4 | [강의자료4](https://ai-carpentry.github.io/slideshow/ch04.html#/title-slide) | [실습자료4](https://ai-carpentry.github.io/slideshow/ch04_practice.html#/title-slide) |  |  |
+| \- | [보안](https://ai-carpentry.github.io/slideshow/security.html#/title-slide), [구글/오피스](https://ai-carpentry.github.io/slideshow/office.html#/title-slide) | [컴퓨터](https://ai-carpentry.github.io/slideshow/computer.html#/title-slide) | 데이터문해력 |  |
 
 ## 참고 자료
 
