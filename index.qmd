@@ -39,23 +39,12 @@ editor_options:
   chunk_output_type: console
 ---
 
-## 강의 실습 자료
-
-| 강의회차 | 슬라이드 | 사례 | 실습 | 비고 |
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| 0 | \- | \- | \- | [환경설정](https://ai-carpentry.github.io/slideshow/setup.html#/title-slide) |
-| 1 | [강의자료1](https://ai-carpentry.github.io/slideshow/ch01.html#/title-slide) | [사례1](https://ai-carpentry.github.io/slideshow/ch01_case_study.html#/title-slide) | [실습1](https://ai-carpentry.github.io/slideshow/ch01_practice.html#/title-slide) | [구글/오피스](https://ai-carpentry.github.io/slideshow/office.html#/title-slide) |
-| 2 | [강의자료2](https://ai-carpentry.github.io/slideshow/ch02.html#/title-slide) | [사례2](https://ai-carpentry.github.io/slideshow/ch02_case_study.html#/title-slide) | [실습2](https://ai-carpentry.github.io/slideshow/ch02_practice.html#/title-slide) | [디지털 글쓰기](https://ai-carpentry.github.io/slideshow/quarto.html#/title-slide) |
-| 3 | [강의자료3](https://ai-carpentry.github.io/slideshow/ch03.html#/title-slide) | [사례3(엑셀)](https://ai-carpentry.github.io/slideshow/ch03_case_study_excel.html#/title-slide) | [실습3](https://ai-carpentry.github.io/slideshow/ch03_practice.html#/title-slide) | [데이터문해력](https://ai-carpentry.github.io/slideshow/literacy.html#/title-slide) |
-| 4 | [강의자료4](https://ai-carpentry.github.io/slideshow/ch04.html#/title-slide) | [사례4](https://ai-carpentry.github.io/slideshow/ch04_case_study.html#/title-slide) | [실습4](https://ai-carpentry.github.io/slideshow/ch04_practice.html#/title-slide),[실습4(PPT)](https://ai-carpentry.github.io/slideshow/ch04_practice_ppt.html#/title-slide) | [보안](https://ai-carpentry.github.io/slideshow/security.html#/title-slide) |
-| \- | [컴퓨터](https://ai-carpentry.github.io/slideshow/computer.html#/title-slide), [디지털국가순위](https://ai-carpentry.github.io/slideshow/ranking.html#/title-slide) | [사람과 AI 분업](https://ai-carpentry.github.io/slideshow/labor_division.html#/title-slide) |  |  |
-
 ## 당직자 AI 교육 심화과정
 
 -   교육주제: (챗GPT 등) 생성형 AI를 활용한 당무 생산성 향상
 -   참석인원: 중앙당 당직자 부국장급, 부장급
--   시간: 17:30 \~ 19:30 (2시간)
--   강의노트: [10월 21일](https://hackmd.io/@_NnKkWt7T5iYIToOD1QWRg/HyDZ4l3RA/edit)
+-   시간: 수요일 17:30 \~ 19:30 (2시간)
+-   강의노트: [10월 23일](https://hackmd.io/@_NnKkWt7T5iYIToOD1QWRg/HyDZ4l3RA/edit)
 
 ## 커리큘럼
 
@@ -134,6 +123,18 @@ curriculum_gt <- curriculum %>%
 
 curriculum_gt
 ```
+
+## 강의 실습 자료
+
+| 강의회차 | 슬라이드 | 사례 | 실습 | 비고 |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| 0 | \- | \- | \- | [환경설정](https://ai-carpentry.github.io/slideshow/setup.html#/title-slide) |
+| 1 | [강의자료1](https://ai-carpentry.github.io/slideshow/ch01.html#/title-slide) | [사례1](https://ai-carpentry.github.io/slideshow/ch01_case_study.html#/title-slide) | [실습1](https://ai-carpentry.github.io/slideshow/ch01_practice.html#/title-slide) | [구글/오피스](https://ai-carpentry.github.io/slideshow/office.html#/title-slide) |
+| 2 | [강의자료2](https://ai-carpentry.github.io/slideshow/ch02.html#/title-slide) | [사례2](https://ai-carpentry.github.io/slideshow/ch02_case_study.html#/title-slide) | [실습2](https://ai-carpentry.github.io/slideshow/ch02_practice.html#/title-slide) | [디지털 글쓰기](https://ai-carpentry.github.io/slideshow/quarto.html#/title-slide) |
+| 3 | [강의자료3](https://ai-carpentry.github.io/slideshow/ch03.html#/title-slide) | [사례3(엑셀)](https://ai-carpentry.github.io/slideshow/ch03_case_study_excel.html#/title-slide) | [실습3](https://ai-carpentry.github.io/slideshow/ch03_practice.html#/title-slide) | [데이터문해력](https://ai-carpentry.github.io/slideshow/literacy.html#/title-slide) |
+| 4 | [강의자료4](https://ai-carpentry.github.io/slideshow/ch04.html#/title-slide) | [사례4](https://ai-carpentry.github.io/slideshow/ch04_case_study.html#/title-slide) | [실습4](https://ai-carpentry.github.io/slideshow/ch04_practice.html#/title-slide),[실습4(PPT)](https://ai-carpentry.github.io/slideshow/ch04_practice_ppt.html#/title-slide) | [보안](https://ai-carpentry.github.io/slideshow/security.html#/title-slide) |
+| \- | [컴퓨터](https://ai-carpentry.github.io/slideshow/computer.html#/title-slide), [디지털국가순위](https://ai-carpentry.github.io/slideshow/ranking.html#/title-slide) | [사람과 AI 분업](https://ai-carpentry.github.io/slideshow/labor_division.html#/title-slide) |  |  |
+
 
 ## 참고 자료
 
