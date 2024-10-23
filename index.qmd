@@ -132,9 +132,8 @@ curriculum_gt
 | 1 | [강의자료1](https://ai-carpentry.github.io/slideshow/ch01.html#/title-slide) | [사례1](https://ai-carpentry.github.io/slideshow/ch01_case_study.html#/title-slide) | [실습1](https://ai-carpentry.github.io/slideshow/ch01_practice.html#/title-slide) | [구글/오피스](https://ai-carpentry.github.io/slideshow/office.html#/title-slide) |
 | 2 | [강의자료2](https://ai-carpentry.github.io/slideshow/ch02.html#/title-slide) | [사례2](https://ai-carpentry.github.io/slideshow/ch02_case_study.html#/title-slide) | [실습2](https://ai-carpentry.github.io/slideshow/ch02_practice.html#/title-slide) | [디지털 글쓰기](https://ai-carpentry.github.io/slideshow/quarto.html#/title-slide) |
 | 3 | [강의자료3](https://ai-carpentry.github.io/slideshow/ch03.html#/title-slide) | [사례3(엑셀)](https://ai-carpentry.github.io/slideshow/ch03_case_study_excel.html#/title-slide) | [실습3](https://ai-carpentry.github.io/slideshow/ch03_practice.html#/title-slide) | [데이터문해력](https://ai-carpentry.github.io/slideshow/literacy.html#/title-slide) |
-| 4 | [강의자료4](https://ai-carpentry.github.io/slideshow/ch04.html#/title-slide) | [사례4](https://ai-carpentry.github.io/slideshow/ch04_case_study.html#/title-slide) | [실습4](https://ai-carpentry.github.io/slideshow/ch04_practice.html#/title-slide),[실습4(PPT)](https://ai-carpentry.github.io/slideshow/ch04_practice_ppt.html#/title-slide) | [보안](https://ai-carpentry.github.io/slideshow/security.html#/title-slide) |
+| 4 | [강의자료4](https://ai-carpentry.github.io/slideshow/ch04.html#/title-slide) | [사례4](https://ai-carpentry.github.io/slideshow/ch04_case_study.html#/title-slide),[일본여행](tokyo.html) | [실습4](https://ai-carpentry.github.io/slideshow/ch04_practice.html#/title-slide),[실습4(PPT)](https://ai-carpentry.github.io/slideshow/ch04_practice_ppt.html#/title-slide) | [보안](https://ai-carpentry.github.io/slideshow/security.html#/title-slide) |
 | \- | [컴퓨터](https://ai-carpentry.github.io/slideshow/computer.html#/title-slide), [디지털국가순위](https://ai-carpentry.github.io/slideshow/ranking.html#/title-slide) | [사람과 AI 분업](https://ai-carpentry.github.io/slideshow/labor_division.html#/title-slide) |  |  |
-
 
 ## 참고 자료
 
